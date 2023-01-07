@@ -1,5 +1,6 @@
 body{
     background-image: url('https://www.revistanegociorural.com.br/wp-content/uploads/2020/03/lightning-1158027_1920-1024x491.jpg');
+	background-repeat: no-repeat;
 }
 
 h1{
@@ -39,7 +40,6 @@ a:hover{
 }
 
 background-image{
-    background-repeat: no-repeat;
 	opacity: 0.1;
     filter: alpha(opacity=40);
     background-attachment: scroll;
